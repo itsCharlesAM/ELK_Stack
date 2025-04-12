@@ -37,7 +37,7 @@ Logstash is a server-side data processing pipeline that ingests data from multip
 - It processes and formats the data (such as converting log lines into structured JSON).
 - After processing, the data is sent to Elasticsearch for indexing.
 
-<img src="https://www.instaclustr.com/wp-content/uploads/2021/01/Logstash-Use-Case-diagram-1024x624.png" alt="logstash_how_it_works" width="700"/>
+<img src="https://www.tatvasoft.com/blog/wp-content/uploads/2018/06/Data-Analytics-with-Elasticsearch-Logstash-and-Kibana-ELK.webp" alt="logstash_how_it_works" width="700"/>
 
 
 
