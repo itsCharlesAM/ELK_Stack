@@ -119,3 +119,9 @@ output {
   ```bash
   ./bin/logstash -f path_to_config_file.conf
   ```
+
+You can see the `.conf` file I uploaded for my simple project.
+I created a script that calls random user API and sends the response to a `.log` file with the format that I defined in `.conf` file and the script.
+Then you can use the generated logs to test ELK services, like search API, monitoring the log data, etc.
+
+Good luck! 🍀
