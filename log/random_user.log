@@ -1,0 +1,11 @@
+{"timestamp": "2025-04-13T08:56:03.129498", "status": 200, "name": "Catalina Balderas", "email": "catalina.balderas@example.com", "gender": "female", "country": "Mexico"}
+{"timestamp": "2025-04-13T08:57:42.108160", "status": 200, "name": "Marlon Novaes", "email": "marlon.novaes@example.com", "gender": "male", "country": "Brazil"}
+{"timestamp": "2025-04-13T08:58:34.443947", "status": 200, "name": "Francisca Mateo", "email": "francisca.mateo@example.com", "gender": "female", "country": "Mexico"}
+{"timestamp": "2025-04-13T09:00:37.212560", "status": 200, "name": "Steffen Bellmann", "email": "steffen.bellmann@example.com", "gender": "male", "country": "Germany"}
+{"timestamp": "2025-04-13T09:06:01.327323", "status": 200, "name": "Deniz Ta\u015fl\u0131", "email": "deniz.tasli@example.com", "gender": "female", "country": "Turkey"}
+{"timestamp": "2025-04-13T10:01:54.114790", "status": 200, "name": "Saloni Namnaik", "email": "saloni.namnaik@example.com", "gender": "female", "country": "India"}
+{"timestamp": "2025-04-13T10:02:14.716985", "status": 200, "name": "Minttu Leino", "email": "minttu.leino@example.com", "gender": "female", "country": "Finland"}
+{"timestamp": "2025-04-13T10:05:39.250100", "status": 200, "name": "Julio Gilbert", "email": "julio.gilbert@example.com", "gender": "male", "country": "United States"}
+{"timestamp": "2025-04-13T10:10:38.963888", "status": 200, "name": "Ida Giraud", "email": "ida.giraud@example.com", "gender": "female", "country": "Switzerland"}
+{"timestamp": "2025-04-13T10:15:57.901063", "status": 500, "error": "HTTPSConnectionPool(host='randomuser.me', port=443): Max retries exceeded with url: /api/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"}
+{"timestamp": "2025-04-13T10:17:27.003225", "status": 200, "name": "Cynthia Salgado", "email": "cynthia.salgado@example.com", "gender": "female", "country": "Mexico"}
